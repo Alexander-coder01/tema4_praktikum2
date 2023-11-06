@@ -1,0 +1,7 @@
+C:\Users\alexa\source\repos\tema4_pr2\tema4_pr2\obj\Debug\tema4_pr2.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\tema4_pr2\tema4_pr2\obj\Debug\tema4_pr2.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\tema4_pr2\tema4_pr2\bin\Debug\tema4_pr2.exe.config
+C:\Users\alexa\source\repos\tema4_pr2\tema4_pr2\bin\Debug\tema4_pr2.exe
+C:\Users\alexa\source\repos\tema4_pr2\tema4_pr2\bin\Debug\tema4_pr2.pdb
+C:\Users\alexa\source\repos\tema4_pr2\tema4_pr2\obj\Debug\tema4_pr2.exe
+C:\Users\alexa\source\repos\tema4_pr2\tema4_pr2\obj\Debug\tema4_pr2.pdb
